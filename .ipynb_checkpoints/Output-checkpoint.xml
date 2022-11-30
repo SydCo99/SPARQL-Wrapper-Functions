@@ -1,0 +1,309 @@
+<?xml version="1.0" ?><sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="entity"/>
+  <variable name="label"/>
+  <variable name="seealso"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3966</uri></binding>
+   <binding name="label"><literal>Vaccinology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3967</uri></binding>
+   <binding name="label"><literal>Immunomics</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3974</uri></binding>
+   <binding name="label"><literal>Epistasis</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3837</uri></binding>
+   <binding name="label"><literal>Metagenomic sequencing</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_0123</uri></binding>
+   <binding name="label"><literal>Protein properties</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_0157</uri></binding>
+   <binding name="label"><literal>Sequence composition, complexity and repeats</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_0160</uri></binding>
+   <binding name="label"><literal>Sequence sites, features and motifs</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_0166</uri></binding>
+   <binding name="label"><literal>Protein structural motifs and surfaces</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_0219</uri></binding>
+   <binding name="label"><literal>Data submission, annotation and curation</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_0632</uri></binding>
+   <binding name="label"><literal>Probes and primers</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_0634</uri></binding>
+   <binding name="label"><literal>Pathology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_0736</uri></binding>
+   <binding name="label"><literal>Protein folds and structural domains</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_1775</uri></binding>
+   <binding name="label"><literal>Function analysis</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_2640</uri></binding>
+   <binding name="label"><literal>Oncology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3068</uri></binding>
+   <binding name="label"><literal>Literature and language</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3120</uri></binding>
+   <binding name="label"><literal>Protein variants</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3277</uri></binding>
+   <binding name="label"><literal>Sample collections</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3300</uri></binding>
+   <binding name="label"><literal>Physiology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3305</uri></binding>
+   <binding name="label"><literal>Public health and epidemiology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3322</uri></binding>
+   <binding name="label"><literal>Respiratory medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3324</uri></binding>
+   <binding name="label"><literal>Infectious disease</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3325</uri></binding>
+   <binding name="label"><literal>Rare diseases</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3334</uri></binding>
+   <binding name="label"><literal>Neurology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3338</uri></binding>
+   <binding name="label"><literal>Mouse clinic</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3339</uri></binding>
+   <binding name="label"><literal>Microbial collection</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3340</uri></binding>
+   <binding name="label"><literal>Cell culture collection</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3342</uri></binding>
+   <binding name="label"><literal>Translational medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3345</uri></binding>
+   <binding name="label"><literal>Data identity and mapping</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3361</uri></binding>
+   <binding name="label"><literal>Laboratory techniques</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3371</uri></binding>
+   <binding name="label"><literal>Synthetic chemistry</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3374</uri></binding>
+   <binding name="label"><literal>Biotherapeutics</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3376</uri></binding>
+   <binding name="label"><literal>Medicines research and development</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3377</uri></binding>
+   <binding name="label"><literal>Safety sciences</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3382</uri></binding>
+   <binding name="label"><literal>Imaging</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3388</uri></binding>
+   <binding name="label"><literal>Molecular medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3393</uri></binding>
+   <binding name="label"><literal>Quality affairs</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3396</uri></binding>
+   <binding name="label"><literal>Systems medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3399</uri></binding>
+   <binding name="label"><literal>Geriatric medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3401</uri></binding>
+   <binding name="label"><literal>Pain medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3404</uri></binding>
+   <binding name="label"><literal>Dermatology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3405</uri></binding>
+   <binding name="label"><literal>Dentistry</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3406</uri></binding>
+   <binding name="label"><literal>Ear, nose and throat medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3407</uri></binding>
+   <binding name="label"><literal>Endocrinology and metabolism</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3408</uri></binding>
+   <binding name="label"><literal>Haematology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3409</uri></binding>
+   <binding name="label"><literal>Gastroenterology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3410</uri></binding>
+   <binding name="label"><literal>Gender medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3411</uri></binding>
+   <binding name="label"><literal>Gynaecology and obstetrics</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3412</uri></binding>
+   <binding name="label"><literal>Hepatic and biliary medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3414</uri></binding>
+   <binding name="label"><literal>Trauma medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3415</uri></binding>
+   <binding name="label"><literal>Medical toxicology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3416</uri></binding>
+   <binding name="label"><literal>Musculoskeletal medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3417</uri></binding>
+   <binding name="label"><literal>Opthalmology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3418</uri></binding>
+   <binding name="label"><literal>Paediatrics</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3419</uri></binding>
+   <binding name="label"><literal>Psychiatry</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3420</uri></binding>
+   <binding name="label"><literal>Reproductive health</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3421</uri></binding>
+   <binding name="label"><literal>Surgery</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3510</uri></binding>
+   <binding name="label"><literal>Protein sites, features and motifs</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3511</uri></binding>
+   <binding name="label"><literal>Nucleic acid sites, features and motifs</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3512</uri></binding>
+   <binding name="label"><literal>Gene transcripts</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3520</uri></binding>
+   <binding name="label"><literal>Proteomics experiment</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3523</uri></binding>
+   <binding name="label"><literal>RNAi experiment</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3524</uri></binding>
+   <binding name="label"><literal>Simulation experiment</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3534</uri></binding>
+   <binding name="label"><literal>Protein binding sites</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3538</uri></binding>
+   <binding name="label"><literal>Protein disordered structure</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3576</uri></binding>
+   <binding name="label"><literal>Medical biotechnology</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3577</uri></binding>
+   <binding name="label"><literal>Personalised medicine</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3673</uri></binding>
+   <binding name="label"><literal>Whole genome sequencing</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3676</uri></binding>
+   <binding name="label"><literal>Exome sequencing</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3678</uri></binding>
+   <binding name="label"><literal>Experimental design and studies</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3679</uri></binding>
+   <binding name="label"><literal>Animal study</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/operation_3923</uri></binding>
+   <binding name="label"><literal>Genome resequencing</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3892</uri></binding>
+   <binding name="label"><literal>Biomolecular simulation</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3954</uri></binding>
+   <binding name="label"><literal>Echography</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3955</uri></binding>
+   <binding name="label"><literal>Fluxomics</literal></binding>
+  </result>
+  <result>
+   <binding name="entity"><uri>http://edamontology.org/topic_3957</uri></binding>
+   <binding name="label"><literal>Protein interaction experiment</literal></binding>
+  </result>
+ </results>
+</sparql>
