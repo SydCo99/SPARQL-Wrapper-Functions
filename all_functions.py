@@ -2,7 +2,6 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 import pandas as pd
 
 
-#Function to find all class containing graphs (JSON Output)
 def bad_uris(source):
     sparql = SPARQLWrapper(source)
     sparql.setReturnFormat(JSON)
